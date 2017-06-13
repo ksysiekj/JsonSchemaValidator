@@ -1,1 +1,1 @@
-simple json schema validator using Newtonsoft.Json.Schema package
+simple json schema validator with Newtonsoft.Json.Schema package
